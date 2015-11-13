@@ -1,0 +1,1 @@
+asadmin --user admin --host localhost --port 4848 --passwordfile pass.properties deploy dist/applic2.ear

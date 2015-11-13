@@ -1,0 +1,5 @@
+-> chaque utilisateur possède son propre EJB.
+Si un utilisateur n'est plus là l'EJB n'est pas réattribué à un autre client.
+
+-> chaque utilisateur possède son propre EJB.
+Si un utilisateur n'est plus là l'EJB est réattribué à un autre client.

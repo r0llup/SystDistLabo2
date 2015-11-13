@@ -1,0 +1,1 @@
+asadmin get-client-stubs --user admin --appname applic2 backup
